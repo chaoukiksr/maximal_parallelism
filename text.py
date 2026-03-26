@@ -1,4 +1,4 @@
-from maximal_parallelism.maxpar import Task, TaskSystem
+from maxpar import Task, TaskSystem
 
 # Variables globales
 stock = None
